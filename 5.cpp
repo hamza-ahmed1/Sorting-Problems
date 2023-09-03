@@ -62,5 +62,8 @@ int main() {
 	int CratesRecord[5]; //declare Array for kept record of Crates Data
 	Input(CratesRecord,sizeof(CratesRecord)/sizeof(CratesRecord[0]));
 	
+	//Justification of using insertion sort:
+	// we will use insertion sort because we have to sort all previous entries A/C to new upcoming entry 
+	
 
 }
